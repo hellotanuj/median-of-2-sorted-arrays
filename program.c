@@ -4,7 +4,7 @@ int main()
 {
     int m, n, i, j;
 
-    // Input for the first array
+
     printf("Enter the size of the first array: ");
     scanf("%d", &m);
 
@@ -14,7 +14,7 @@ int main()
         scanf("%d", &nums1[i]);
     }
 
-    // Input for the second array
+
     printf("Enter the size of the second array: ");
     scanf("%d", &n);
 
